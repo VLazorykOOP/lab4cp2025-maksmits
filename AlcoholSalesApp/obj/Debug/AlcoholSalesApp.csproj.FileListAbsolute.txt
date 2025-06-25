@@ -1,0 +1,14 @@
+C:\Users\mmaks\source\repos\AlcoholSalesApp\bin\Debug\AlcoholSalesApp.exe.config
+C:\Users\mmaks\source\repos\AlcoholSalesApp\bin\Debug\AlcoholSalesApp.exe
+C:\Users\mmaks\source\repos\AlcoholSalesApp\bin\Debug\AlcoholSalesApp.pdb
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.csproj.AssemblyReference.cache
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.Properties.Resources.resources
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.csproj.GenerateResource.cache
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.csproj.CoreCompileInputs.cache
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.exe
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.pdb
+C:\Users\mmaks\source\repos\AlcoholSalesApp\bin\Debug\AlcoholSales.mdf
+C:\Users\mmaks\source\repos\AlcoholSalesApp\bin\Debug\AlcoholSales_log.ldf
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AddDrinkForm.resources
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\AlcoholSalesApp.Form1.resources
+C:\Users\mmaks\source\repos\AlcoholSalesApp\obj\Debug\MainForm.resources
